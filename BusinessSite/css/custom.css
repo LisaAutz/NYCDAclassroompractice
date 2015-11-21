@@ -1,0 +1,17 @@
+.row{
+	padding: 0 auto;
+	margin: 0 auto;
+
+}
+
+.carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+ .page-header{
+ 	background-color: pink;
+ 	color: white;
+
+ }
